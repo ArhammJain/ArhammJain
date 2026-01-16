@@ -74,15 +74,15 @@ I prefer depth over shortcuts and value clarity, discipline, and long-term growt
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.instagram.com/arham.builds">
+  <a href="https://www.instagram.com/arhm.in">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/arham-chhajed-ab14a4384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
+  <a href="https://www.linkedin.com/in/arham-chhajed-ab14a4384">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-1D56CF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a> -->
+  <a href="https://arhamswork.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:freelance.arhamm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
